@@ -1,7 +1,7 @@
 This is my first git..welcome to git...!!
 
 class HelloGit{
-     main(){
+    public static void main(String str[]){
 
        sysout("Hello Git..!!!");
 }
