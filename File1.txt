@@ -3,12 +3,12 @@
 class HelloGit{
 
 
-   void helloGit(){
+   public static final void helloGit(String str){
 
        System.out.println("Hello Git..welcome");
 }
     public static void main(String str[]){
       HelloGit obj = new HelloGit();
- 	obj.helloGit();
+ 	obj.helloGit("Hello");
 }
 }
