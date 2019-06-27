@@ -3,13 +3,13 @@
 class HelloGit{
 
 
-   void helloGit(){
+   static void helloGit(){
 
        System.out.println("Hello Git..welcome");
 }
     public static void main(String str[]){
-      HelloGit obj = new HelloGit();
- 	obj.helloGit();
+     
+ 	HelloGit.helloGit();
 }
 	void myBigMethod(){
      		sysout("has a method impl");
