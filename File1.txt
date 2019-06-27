@@ -5,8 +5,12 @@ class HelloGit{
     void showDate(){
    sysout("date show")
 }
+
+   void helloGit(){
+
+       System.out.println("Hello Git..welcome");
+}
     public static void main(String str[]){
 
-       System.out.println("Hello Git..!!!");
 }
 }
