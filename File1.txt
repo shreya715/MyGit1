@@ -15,7 +15,7 @@ class HelloGit{
  	HelloGit.helloGit("Hello");
 
 }
-	void myBigMethod(){
+	public static void myBigMethod(){
      		sysout("has a method impl");
 }
 
